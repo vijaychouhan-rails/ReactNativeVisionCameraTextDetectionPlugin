@@ -18,7 +18,7 @@ here you will get native code that you can write inside the files that is genera
 
 ## Installation
 
-Install my-project with npm
+textDetect.js
 
 ```bash
 import React, {useRef, useEffect} from 'react';
